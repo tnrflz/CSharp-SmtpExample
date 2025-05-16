@@ -1,3 +1,5 @@
+### 📧 SMTP Ayarları Açıklamaları
+
 Aşağıdaki değişkenler, SMTP protokolü kullanılarak e-posta göndermek için gerekli temel yapılandırmaları içerir:
 
 - `string smtpServer = "";`  
